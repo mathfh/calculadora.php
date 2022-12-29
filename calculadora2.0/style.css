@@ -1,0 +1,38 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arial";
+    background-color: black;
+    color: white
+}
+body{width: 100%;
+    min-width: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.mundo{ 
+    color: white;
+    background-color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    display: flex;
+    font-size: 23px;
+    background-color:white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 2px solid  blue;
+    margin-top: 500px;
+}
+div{
+    font-size: 30px;
+    
+
+}
